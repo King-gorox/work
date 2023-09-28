@@ -1,0 +1,15 @@
+C:\c sharp\саод1\саод1\bin\Debug\net6.0\саод1.exe
+C:\c sharp\саод1\саод1\bin\Debug\net6.0\саод1.deps.json
+C:\c sharp\саод1\саод1\bin\Debug\net6.0\саод1.runtimeconfig.json
+C:\c sharp\саод1\саод1\bin\Debug\net6.0\саод1.dll
+C:\c sharp\саод1\саод1\bin\Debug\net6.0\саод1.pdb
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.csproj.AssemblyReference.cache
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.AssemblyInfoInputs.cache
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.AssemblyInfo.cs
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.csproj.CoreCompileInputs.cache
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.dll
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\refint\саод1.dll
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.pdb
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\саод1.genruntimeconfig.cache
+C:\c sharp\саод1\саод1\obj\Debug\net6.0\ref\саод1.dll
