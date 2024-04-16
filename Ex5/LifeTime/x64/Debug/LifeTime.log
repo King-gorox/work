@@ -1,0 +1,5 @@
+﻿  LifeTime.cpp
+C:\Users\User\Desktop\Ex5\LifeTime\LifeTime.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Test.cpp
+  Создание кода...
+  LifeTime.vcxproj -> C:\Users\User\Desktop\Ex5\x64\Debug\LifeTime.exe
