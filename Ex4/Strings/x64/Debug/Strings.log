@@ -1,0 +1,7 @@
+﻿  Strings.cpp
+C:\Users\User\Desktop\Strings\Strings\Str.h(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "Strings.cpp")
+  C:\Users\User\Desktop\Strings\Strings\Strings.cpp(1,1):
+  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  
+  Strings.vcxproj -> C:\Users\User\Desktop\Strings\x64\Debug\Strings.exe
