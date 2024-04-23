@@ -1,0 +1,8 @@
+﻿  RefStrings.cpp
+C:\Users\User\Desktop\саод2\RefStrings\RefStrings\Str.h(18,16): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "RefStrings.cpp")
+  
+C:\Users\User\Desktop\саод2\RefStrings\RefStrings\Str.h(55,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "RefStrings.cpp")
+  
+  RefStrings.vcxproj -> C:\Users\User\Desktop\саод2\RefStrings\x64\Debug\RefStrings.exe
