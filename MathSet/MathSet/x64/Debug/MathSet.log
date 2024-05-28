@@ -1,0 +1,3 @@
+﻿  MathSet.cpp
+C:\Users\User\Desktop\саод2\MathSet\MathSet\MathSet.cpp(39,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MathSet.vcxproj -> C:\Users\User\Desktop\саод2\MathSet\x64\Debug\MathSet.exe
